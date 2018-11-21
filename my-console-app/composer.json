@@ -1,0 +1,17 @@
+{
+    "name": "kevin/my-console-app",
+    "authors": [
+        {
+            "name": "Kevin Campusano",
+            "email": "kcampusano@endpoint.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "calc.php"
+        ]
+    },
+    "require": {
+        "zendframework/zend-validator": "^2.10"
+    }
+}
